@@ -1,1 +1,1 @@
-![Meditation](week_01/img.jpeg)
+![Meditation](week_1/img.jpeg)

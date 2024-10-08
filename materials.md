@@ -1,3 +1,3 @@
 **< [Back to main](index.md)**
 
-**[1st lesson](week_1.md)**
+**[Materials of the week 1](week_1.md)**
